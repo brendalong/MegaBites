@@ -11,7 +11,7 @@ MegaBites is a brand new fruity gummy. A graphic designer has been hard at work 
 * Add styling.
 	1. Start with basics and solid blocks of color
 	1. Use flexbox
-	1. Enhance with gradients
+	1. Enhance with styles and gradients
 
 **Be sure to `add`, `commit`, and `push` to github often.**
 
